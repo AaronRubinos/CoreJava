@@ -1,2 +1,2 @@
 # CoreJava
-Fundamentals of Java Practice
+Fundamentals of Java (Practice Grounds)
