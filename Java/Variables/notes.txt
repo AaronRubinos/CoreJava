@@ -1,0 +1,5 @@
+Variables is a storage of data. It can be String, Integer, Double, Float etc. as long as it's data.
+
+String - are text data types
+Integer - are whole numbers 
+Double - are numbers with decimal values

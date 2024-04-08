@@ -1,0 +1,18 @@
+Data Types
+
+Primitive Data Types - simple or basic to work with data's
+	*Integers - byte, short, int, long
+		*int - 4 bytes
+		*long - 8 bytes
+		*short - 2 bytes
+		*byte - 1 byte
+	*Float - double, float
+		*float - 4 bytes
+		*double - 8 bytes
+	*Characters - char
+		*char - 2 bytes
+	*Boolean - true or false
+		*boolean
+
+
+
