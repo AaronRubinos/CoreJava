@@ -1,0 +1,8 @@
+Class and Object Theory in Java
+
+Object - An object knows something, and object does something.
+
+Object Oriented Programming
+Object - Properties and Methods	
+
+Class 
